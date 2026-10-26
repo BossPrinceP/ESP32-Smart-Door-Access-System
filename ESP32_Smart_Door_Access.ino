@@ -46,7 +46,6 @@ Keypad keypad = Keypad(makeKeymap(keys), rowPins, colPins, ROWS, COLS);
 #define LED_RED     16
 #define LED_GREEN   17
 #define LED_BLUE    15
-#define LED_YELLOW  0
 #define PIR_SENSOR  22
 
 // GPIO 34 is input-only and has no internal pull-up.
